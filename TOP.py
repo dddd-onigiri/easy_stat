@@ -23,9 +23,9 @@ st.markdown("""
 st.header("更新履歴")
 
 st.markdown("""
-#### **2023/0９/01**
+#### **2023/09/01**
 - リポジトリを移動しました。
-- 新URL（https://dddd-onigiri-easy-stat-top-532p3c.streamlit.app/） 
+- 新URL（https://easystat-4-education.streamlit.app/） 
 
 
 #### **2023/08/01**
